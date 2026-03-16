@@ -3,7 +3,7 @@
 ? 1. Primitive Data Types (hold a single value)
 ? 2. Non-Primitive (Reference) Data Types (hold multiple or complex values) 
 
-Primitive Data Types:
+*Primitive Data Types:
 1. String: Represents textual data, enclosed in single or double quotes. 
 TODO:  Example: let name = "Rahim";
 
@@ -43,4 +43,28 @@ console.log(emptyValue);
 console.log(x);
 console.log(id);
 console.log(bigNumber);
+*/
+
+// * Non-Primitive (Reference) Data Types:
+
+/*
+1. Object: Represents a collection of key-value pairs, where each key is a string and the value can be of any data type. 
+TODO: Example: let person = { name: "Rahim", age: 30 };
+
+2. Array: Represents a list of values, where each value can be of any data type. 
+TODO: Example: let numbers = [1, 2, 3, 4, 5];
+
+3. Function: Represents a block of code that can be executed when called. 
+TODO: Example: let add = function(a, b) { return a + b; };
+*/
+
+//! Example of using different data types in JavaScript:
+/*
+let person = { name: "Rahim", age: 30 };
+let numbers = [1, 2, 3, 4, 5];
+let add = function(a, b) { return a + b; };
+
+console.log(person);
+console.log(numbers);
+console.log(add(2, 3));
 */
