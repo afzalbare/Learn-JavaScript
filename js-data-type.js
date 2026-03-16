@@ -25,3 +25,22 @@ TODO: Example: let id = Symbol("id");
 BigInt: Represents integers with arbitrary precision, allowing for very large numbers. 
 TODO: Example: let bigNumber = 123456789012345678901234567890n;
 */
+
+//! Example of using different data types in JavaScript:
+/*
+let name = "afzal";
+let age = 25;
+let isStudent = true;
+let emptyValue = null;
+let x;
+let id = Symbol("id");
+let bigNumber = 123456789012345678901234567890n;
+
+console.log(name);
+console.log(age);
+console.log(isStudent);
+console.log(emptyValue);
+console.log(x);
+console.log(id);
+console.log(bigNumber);
+*/
